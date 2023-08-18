@@ -8,4 +8,4 @@
     <img src="https://i.imgur.com/DwVIgrh.gif"><br><br>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=5uppbwc7vo1qa10u5khnbxy1i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"><br>
     <img src="https://i.imgur.com/DwVIgrh.gif">
-</p>
+</p> 
