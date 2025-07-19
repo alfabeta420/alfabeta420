@@ -1,8 +1,6 @@
 <p align="center">
     <img src="https://i.imgur.com/DwVIgrh.gif"><br><br>
     <b>🚀 Hello! It's Alfabeta's profile! 🚀</b><br>
-    Discord contact: <b><i>Alfabeta420</i></b><br><br>
-    <img src="https://i.imgur.com/DwVIgrh.gif"><br><br>
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=5uppbwc7vo1qa10u5khnbxy1i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"><br>
-    <img src="https://i.imgur.com/DwVIgrh.gif">
+    Discord contact: <b><i>ceoweggo</i></b><br><br>
+    <img src="https://i.imgur.com/DwVIgrh.gif"><br>
 </p> 
